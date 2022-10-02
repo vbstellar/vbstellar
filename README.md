@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @vbstellar on github and my name is Vishu Bansal.
-- 👀 I’m interested in DSA, Web development, Python.
-- 🌱 I’m currently learning Java and DSA. And I am gonna learn a lot of things in future.
-- 💞️ I’m looking to collaborate on awesome projects.
+- 👋 Hi, I’m Vishu Bansal
+- 👀 I’m interested in Web development and Python.
 - 📫 How to reach me-  bansalvishu56@gmail.com and @vbstellar on twitter and instagram.
 
 <!---
