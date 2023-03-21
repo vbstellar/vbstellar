@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/vbstellar" target="blank"><img src="https://img.shields.io/twitter/follow/vbstellar?logo=twitter&style=for-the-badge" alt="vbstellar" /></a> </p>
 
-- 🔭 I’m currently working on [Aarna, a website for a Diagnostic centre.](https://github.com/vbstellar/Aarna)
+- 🔭 I’m currently working on [Aarna](https://github.com/vbstellar/Aarna)
 
 - 🌱 I’m currently learning **NextJs, MERN,etc**
 
