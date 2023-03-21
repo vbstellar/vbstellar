@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bansalvishu@gmail.com**
 
-- 📄 Know about my experiences [https://github.com](https://github.com)
+- 📄 Know about my experiences [resume](https://resume.io/r/Y6q4mHQB6)
 
 - ⚡ My hobbies are **football, writing and workout.**
 
