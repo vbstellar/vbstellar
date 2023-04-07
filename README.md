@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react, tailwind,etc**
 
-- 📫 How to reach me **bansalvishu@gmail.com**
+- 📫 How to reach me **bansalvishu56@gmail.com**
 
 - 📄 Know about my experiences [resume](https://resume.io/r/Y6q4mHQB6)
 
