@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Aarna](https://github.com/vbstellar/Aarna)
 
-- 🌱 I’m currently learning web development**
+- 🌱 I’m currently learning **web development**
 
-- 💻 My portfolio website is [vbstellar](https://vbstellar.vercel.app)**
+- 💻 My portfolio website is **[vbstellar](https://vbstellar.vercel.app)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vbstellar?tab=repositories](https://github.com/vbstellar?tab=repositories)
 
