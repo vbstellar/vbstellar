@@ -6,22 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/vbstellar" target="blank"><img src="https://img.shields.io/twitter/follow/vbstellar?logo=twitter&style=for-the-badge" alt="vbstellar" /></a> </p>
 
-- 🔭 I’m currently working on [Aarna](https://github.com/vbstellar/Aarna)
-
-- 🌱 I’m currently learning **web development**
-
-- 💻 My portfolio website is **[vbstellar](https://vbstellar.vercel.app)**
-
-- 👨‍💻 All of my projects are available at [https://github.com/vbstellar?tab=repositories](https://github.com/vbstellar?tab=repositories)
-
-- 💬 Ask me about **react, tailwind,etc**
-
-- 📫 How to reach me **bansalvishu56@gmail.com**
-
-- 📄 Know about my experiences [resume](https://resume.io/r/Y6q4mHQB6)
-
-- ⚡ My hobbies are **football, writing and workout.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vbstellar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vbstellar" height="30" width="40" /></a>
